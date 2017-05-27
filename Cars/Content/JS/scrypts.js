@@ -1,4 +1,4 @@
-/*Практика JavaScript*/
+/*JavaScript*/
 function SetIMG(selected_url) {
     var item = document.getElementById("Preview");
     item.src = selected_url;
